@@ -5,7 +5,7 @@
 #### Install
 - gem install jekyll bundler
 
-Locally run website
+#### Locally run website
 - bundle exec jekyll serve
 
 #### Authors
